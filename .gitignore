@@ -243,3 +243,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/fft/sample1
+/fft/sample2
+/fft_test1_gcc/fft_test1_gcc.exe
+/fft_test1_java/FFT4g.class
+/fft_test1_java/FFTsg.class
+/fft_test1_java/FftTest1.class
+/fft_test1_llvm/fft_test1_llvm.exe
